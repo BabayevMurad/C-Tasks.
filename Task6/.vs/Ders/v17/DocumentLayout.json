@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\murad\\OneDrive\\Desktop\\Ders\\Ders C#\\Ders\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9EDACACF-66BC-4E4D-B131-2AFBA00E196E}|Ders\\Ders.csproj|c:\\users\\murad\\onedrive\\desktop\\ders\\ders c#\\ders\\ders\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EDACACF-66BC-4E4D-B131-2AFBA00E196E}|Ders\\Ders.csproj|solutionrelative:ders\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\murad\\OneDrive\\Desktop\\Ders\\Ders C#\\Ders\\Ders\\Program.cs",
+              "RelativeDocumentMoniker": "Ders\\Program.cs",
+              "ToolTip": "C:\\Users\\murad\\OneDrive\\Desktop\\Ders\\Ders C#\\Ders\\Ders\\Program.cs",
+              "RelativeToolTip": "Ders\\Program.cs",
+              "ViewState": "AQIAAHcBAAAAAAAAAAASwH8BAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T16:41:12.836Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
