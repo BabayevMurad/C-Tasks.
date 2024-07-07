@@ -1,0 +1,15 @@
+C:\Users\murad\OneDrive\Desktop\C# Tasks Repository\Task5\ArryList\Dictonary_\bin\Debug\net8.0\Dictonary_.exe
+C:\Users\murad\OneDrive\Desktop\C# Tasks Repository\Task5\ArryList\Dictonary_\bin\Debug\net8.0\Dictonary_.deps.json
+C:\Users\murad\OneDrive\Desktop\C# Tasks Repository\Task5\ArryList\Dictonary_\bin\Debug\net8.0\Dictonary_.runtimeconfig.json
+C:\Users\murad\OneDrive\Desktop\C# Tasks Repository\Task5\ArryList\Dictonary_\bin\Debug\net8.0\Dictonary_.dll
+C:\Users\murad\OneDrive\Desktop\C# Tasks Repository\Task5\ArryList\Dictonary_\bin\Debug\net8.0\Dictonary_.pdb
+C:\Users\murad\OneDrive\Desktop\C# Tasks Repository\Task5\ArryList\Dictonary_\obj\Debug\net8.0\Dictonary_.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\murad\OneDrive\Desktop\C# Tasks Repository\Task5\ArryList\Dictonary_\obj\Debug\net8.0\Dictonary_.AssemblyInfoInputs.cache
+C:\Users\murad\OneDrive\Desktop\C# Tasks Repository\Task5\ArryList\Dictonary_\obj\Debug\net8.0\Dictonary_.AssemblyInfo.cs
+C:\Users\murad\OneDrive\Desktop\C# Tasks Repository\Task5\ArryList\Dictonary_\obj\Debug\net8.0\Dictonary_.csproj.CoreCompileInputs.cache
+C:\Users\murad\OneDrive\Desktop\C# Tasks Repository\Task5\ArryList\Dictonary_\obj\Debug\net8.0\Dictonary_.sourcelink.json
+C:\Users\murad\OneDrive\Desktop\C# Tasks Repository\Task5\ArryList\Dictonary_\obj\Debug\net8.0\Dictonary_.dll
+C:\Users\murad\OneDrive\Desktop\C# Tasks Repository\Task5\ArryList\Dictonary_\obj\Debug\net8.0\refint\Dictonary_.dll
+C:\Users\murad\OneDrive\Desktop\C# Tasks Repository\Task5\ArryList\Dictonary_\obj\Debug\net8.0\Dictonary_.pdb
+C:\Users\murad\OneDrive\Desktop\C# Tasks Repository\Task5\ArryList\Dictonary_\obj\Debug\net8.0\Dictonary_.genruntimeconfig.cache
+C:\Users\murad\OneDrive\Desktop\C# Tasks Repository\Task5\ArryList\Dictonary_\obj\Debug\net8.0\ref\Dictonary_.dll

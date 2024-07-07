@@ -1,0 +1,29 @@
+C:\Users\murad\OneDrive\Desktop\Ders1\Ders\bin\Debug\net8.0\Ders.exe
+C:\Users\murad\OneDrive\Desktop\Ders1\Ders\bin\Debug\net8.0\Ders.deps.json
+C:\Users\murad\OneDrive\Desktop\Ders1\Ders\bin\Debug\net8.0\Ders.runtimeconfig.json
+C:\Users\murad\OneDrive\Desktop\Ders1\Ders\bin\Debug\net8.0\Ders.dll
+C:\Users\murad\OneDrive\Desktop\Ders1\Ders\bin\Debug\net8.0\Ders.pdb
+C:\Users\murad\OneDrive\Desktop\Ders1\Ders\obj\Debug\net8.0\Ders.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\murad\OneDrive\Desktop\Ders1\Ders\obj\Debug\net8.0\Ders.AssemblyInfoInputs.cache
+C:\Users\murad\OneDrive\Desktop\Ders1\Ders\obj\Debug\net8.0\Ders.AssemblyInfo.cs
+C:\Users\murad\OneDrive\Desktop\Ders1\Ders\obj\Debug\net8.0\Ders.csproj.CoreCompileInputs.cache
+C:\Users\murad\OneDrive\Desktop\Ders1\Ders\obj\Debug\net8.0\Ders.dll
+C:\Users\murad\OneDrive\Desktop\Ders1\Ders\obj\Debug\net8.0\refint\Ders.dll
+C:\Users\murad\OneDrive\Desktop\Ders1\Ders\obj\Debug\net8.0\Ders.pdb
+C:\Users\murad\OneDrive\Desktop\Ders1\Ders\obj\Debug\net8.0\Ders.genruntimeconfig.cache
+C:\Users\murad\OneDrive\Desktop\Ders1\Ders\obj\Debug\net8.0\ref\Ders.dll
+C:\Users\murad\OneDrive\Desktop\C# Tasks Repository\Task7\Ders\bin\Debug\net8.0\Ders.exe
+C:\Users\murad\OneDrive\Desktop\C# Tasks Repository\Task7\Ders\bin\Debug\net8.0\Ders.deps.json
+C:\Users\murad\OneDrive\Desktop\C# Tasks Repository\Task7\Ders\bin\Debug\net8.0\Ders.runtimeconfig.json
+C:\Users\murad\OneDrive\Desktop\C# Tasks Repository\Task7\Ders\bin\Debug\net8.0\Ders.dll
+C:\Users\murad\OneDrive\Desktop\C# Tasks Repository\Task7\Ders\bin\Debug\net8.0\Ders.pdb
+C:\Users\murad\OneDrive\Desktop\C# Tasks Repository\Task7\Ders\obj\Debug\net8.0\Ders.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\murad\OneDrive\Desktop\C# Tasks Repository\Task7\Ders\obj\Debug\net8.0\Ders.AssemblyInfoInputs.cache
+C:\Users\murad\OneDrive\Desktop\C# Tasks Repository\Task7\Ders\obj\Debug\net8.0\Ders.AssemblyInfo.cs
+C:\Users\murad\OneDrive\Desktop\C# Tasks Repository\Task7\Ders\obj\Debug\net8.0\Ders.csproj.CoreCompileInputs.cache
+C:\Users\murad\OneDrive\Desktop\C# Tasks Repository\Task7\Ders\obj\Debug\net8.0\Ders.sourcelink.json
+C:\Users\murad\OneDrive\Desktop\C# Tasks Repository\Task7\Ders\obj\Debug\net8.0\Ders.dll
+C:\Users\murad\OneDrive\Desktop\C# Tasks Repository\Task7\Ders\obj\Debug\net8.0\refint\Ders.dll
+C:\Users\murad\OneDrive\Desktop\C# Tasks Repository\Task7\Ders\obj\Debug\net8.0\Ders.pdb
+C:\Users\murad\OneDrive\Desktop\C# Tasks Repository\Task7\Ders\obj\Debug\net8.0\Ders.genruntimeconfig.cache
+C:\Users\murad\OneDrive\Desktop\C# Tasks Repository\Task7\Ders\obj\Debug\net8.0\ref\Ders.dll

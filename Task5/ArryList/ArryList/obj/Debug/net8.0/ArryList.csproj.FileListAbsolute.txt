@@ -1,0 +1,15 @@
+C:\Users\murad\OneDrive\Desktop\C# Tasks Repository\Task5\ArryList\ArryList\bin\Debug\net8.0\ArryList.exe
+C:\Users\murad\OneDrive\Desktop\C# Tasks Repository\Task5\ArryList\ArryList\bin\Debug\net8.0\ArryList.deps.json
+C:\Users\murad\OneDrive\Desktop\C# Tasks Repository\Task5\ArryList\ArryList\bin\Debug\net8.0\ArryList.runtimeconfig.json
+C:\Users\murad\OneDrive\Desktop\C# Tasks Repository\Task5\ArryList\ArryList\bin\Debug\net8.0\ArryList.dll
+C:\Users\murad\OneDrive\Desktop\C# Tasks Repository\Task5\ArryList\ArryList\bin\Debug\net8.0\ArryList.pdb
+C:\Users\murad\OneDrive\Desktop\C# Tasks Repository\Task5\ArryList\ArryList\obj\Debug\net8.0\ArryList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\murad\OneDrive\Desktop\C# Tasks Repository\Task5\ArryList\ArryList\obj\Debug\net8.0\ArryList.AssemblyInfoInputs.cache
+C:\Users\murad\OneDrive\Desktop\C# Tasks Repository\Task5\ArryList\ArryList\obj\Debug\net8.0\ArryList.AssemblyInfo.cs
+C:\Users\murad\OneDrive\Desktop\C# Tasks Repository\Task5\ArryList\ArryList\obj\Debug\net8.0\ArryList.csproj.CoreCompileInputs.cache
+C:\Users\murad\OneDrive\Desktop\C# Tasks Repository\Task5\ArryList\ArryList\obj\Debug\net8.0\ArryList.sourcelink.json
+C:\Users\murad\OneDrive\Desktop\C# Tasks Repository\Task5\ArryList\ArryList\obj\Debug\net8.0\ArryList.dll
+C:\Users\murad\OneDrive\Desktop\C# Tasks Repository\Task5\ArryList\ArryList\obj\Debug\net8.0\refint\ArryList.dll
+C:\Users\murad\OneDrive\Desktop\C# Tasks Repository\Task5\ArryList\ArryList\obj\Debug\net8.0\ArryList.pdb
+C:\Users\murad\OneDrive\Desktop\C# Tasks Repository\Task5\ArryList\ArryList\obj\Debug\net8.0\ArryList.genruntimeconfig.cache
+C:\Users\murad\OneDrive\Desktop\C# Tasks Repository\Task5\ArryList\ArryList\obj\Debug\net8.0\ref\ArryList.dll

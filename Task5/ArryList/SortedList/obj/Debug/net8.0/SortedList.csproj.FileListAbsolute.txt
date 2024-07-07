@@ -1,0 +1,15 @@
+C:\Users\murad\OneDrive\Desktop\C# Tasks Repository\Task5\ArryList\SortedList\bin\Debug\net8.0\SortedList.exe
+C:\Users\murad\OneDrive\Desktop\C# Tasks Repository\Task5\ArryList\SortedList\bin\Debug\net8.0\SortedList.deps.json
+C:\Users\murad\OneDrive\Desktop\C# Tasks Repository\Task5\ArryList\SortedList\bin\Debug\net8.0\SortedList.runtimeconfig.json
+C:\Users\murad\OneDrive\Desktop\C# Tasks Repository\Task5\ArryList\SortedList\bin\Debug\net8.0\SortedList.dll
+C:\Users\murad\OneDrive\Desktop\C# Tasks Repository\Task5\ArryList\SortedList\bin\Debug\net8.0\SortedList.pdb
+C:\Users\murad\OneDrive\Desktop\C# Tasks Repository\Task5\ArryList\SortedList\obj\Debug\net8.0\SortedList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\murad\OneDrive\Desktop\C# Tasks Repository\Task5\ArryList\SortedList\obj\Debug\net8.0\SortedList.AssemblyInfoInputs.cache
+C:\Users\murad\OneDrive\Desktop\C# Tasks Repository\Task5\ArryList\SortedList\obj\Debug\net8.0\SortedList.AssemblyInfo.cs
+C:\Users\murad\OneDrive\Desktop\C# Tasks Repository\Task5\ArryList\SortedList\obj\Debug\net8.0\SortedList.csproj.CoreCompileInputs.cache
+C:\Users\murad\OneDrive\Desktop\C# Tasks Repository\Task5\ArryList\SortedList\obj\Debug\net8.0\SortedList.sourcelink.json
+C:\Users\murad\OneDrive\Desktop\C# Tasks Repository\Task5\ArryList\SortedList\obj\Debug\net8.0\SortedList.dll
+C:\Users\murad\OneDrive\Desktop\C# Tasks Repository\Task5\ArryList\SortedList\obj\Debug\net8.0\refint\SortedList.dll
+C:\Users\murad\OneDrive\Desktop\C# Tasks Repository\Task5\ArryList\SortedList\obj\Debug\net8.0\SortedList.pdb
+C:\Users\murad\OneDrive\Desktop\C# Tasks Repository\Task5\ArryList\SortedList\obj\Debug\net8.0\SortedList.genruntimeconfig.cache
+C:\Users\murad\OneDrive\Desktop\C# Tasks Repository\Task5\ArryList\SortedList\obj\Debug\net8.0\ref\SortedList.dll

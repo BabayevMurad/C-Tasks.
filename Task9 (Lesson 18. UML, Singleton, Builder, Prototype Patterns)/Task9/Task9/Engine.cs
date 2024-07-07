@@ -1,0 +1,1 @@
+﻿namespace Task9 { internal class Engine{} }
